@@ -15,6 +15,7 @@ LUFA/
 SerialController/Captures/
 SerialController/settings.poke
 SerialController/settings.ini
+SerialController/line_token.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
